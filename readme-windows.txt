@@ -31,8 +31,9 @@ Dependencies - win32
 
 * OpenSSL
     Link: http://slproweb.com/products/Win32OpenSSL.html
-    Install "Win32 OpenSSL <version>"
+    Install "Win32 OpenSSL v1.0.<version>"
     Required DLLs: libeay32.dll ssleay32.dll
+    Note: 1.1 versions do not include those DLLs.
 * pthreads
     Link: ftp://sourceware.org/pub/pthreads-win32
     Install "pthreads-w32-<version>-release.zip
